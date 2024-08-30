@@ -25,6 +25,7 @@ Pull requests very welcome.
 
 * [Adobe ColdFusion](http://www.adobe.com/products/coldfusion-family.html)
 * [Lucee](http://lucee.org/) - Free, Open Source CFML Engine
+* [BoxLang](https://boxlang.io/) - Supports a dual parser and transpiler to execute ColdFusion/CFML code natively
 
 ## Application Frameworks
 
@@ -53,6 +54,7 @@ Pull requests very welcome.
 * [ContentBox](https://github.com/Ortus-Solutions/ContentBox) - A powerful modular content management engine
 * [FarCry CMS](https://github.com/farcrycore/plugin-farcrycms)
 * [Mura](https://www.murasoftware.com/)
+* [MASA CMS](https://www.masacms.com/)
 * [Preside CMS](https://github.com/pixl8/Preside-CMS) - an open source CMS for the Railo language
 * [Slatwall](https://www.slatwallcommerce.com/) - An Open Source Commerce Platform
 
@@ -80,6 +82,7 @@ Pull requests very welcome.
 * [Moment.cfc](https://github.com/AlumnIQ/momentcfc) - Moment.js inspired date/time manipulation library for CFML (not a direct port)
 * [Mustache.cfc](https://github.com/rip747/Mustache.cfc) - [{{ mustache }}](http://mustache.github.io) for ColdFusion
 * [UnderscoreCF](https://github.com/russplaysguitar/UnderscoreCF) - An UnderscoreJS port for Coldfusion. Functional programming library.
+* [qb](https://github.com/coldbox-modules/qb) - qb is a fluent query builder for CFML and is more flexible to use than queryexecute().
 
 ## Editors
 
